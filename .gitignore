@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Environment variables and secrets
+.env
+.env.*
+.streamlit/secrets.toml
+
+# Assessment documents
+documents/*.pdf
+documents/*.docx
+documents/*.txt
+
+# OS files
+.DS_Store
+Thumbs.db

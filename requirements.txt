@@ -1,0 +1,6 @@
+streamlit
+pymupdf
+python-docx
+scikit-learn
+numpy
+openai
